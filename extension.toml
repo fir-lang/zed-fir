@@ -1,0 +1,11 @@
+id = "Fir"
+name = "Fir programming language"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ömer Sinan Ağacan <omeragacan@gmail.com>"]
+description = "Fir programming language extension for Zed"
+repository = "https://github.com/fir-lang/fir"
+
+[grammars.fir]
+repository = "https://github.com/fir-lang/tree-sitter-fir"
+rev = "d31f52caf9478e50234855022f11cb0615487f20"
