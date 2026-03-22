@@ -8,4 +8,4 @@ repository = "https://github.com/fir-lang/fir"
 
 [grammars.fir]
 repository = "https://github.com/fir-lang/tree-sitter-fir"
-rev = "dd3eb5ec20dc456f4248b0cc5c5926352d59a01d"
+rev = "900ad3bf99393816d8d79e39563226bf2d73a204"
